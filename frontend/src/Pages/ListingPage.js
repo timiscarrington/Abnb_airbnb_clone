@@ -97,7 +97,7 @@ const ListingPage = () => {
               </div>
               <Amenities />
             </div>
-            <div className="list-info-right" style={{border:'1px solid red'}}>
+            <div className="list-info-right" >
               <CheckoutCard price={listing.rate} stars={listing.stars} review={listing.reviews.length} />
             </div>
           </div>
