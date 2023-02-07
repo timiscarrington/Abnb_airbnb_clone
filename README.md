@@ -2,9 +2,12 @@
 
 # [Airbnb Clone](https://jade-heliotrope-86f957.netlify.app/)
 
+## [Backend Repo](https://github.com/t-hoffman/Project-3-Backend)
 ## Overview
 
 - Welcome to our Airbnb Clone! A perfect place to share, experience, and live in an all new enviorments for a limited amount of time! Houses from Malibu and Palm Springs to Miami, Flordia. Hope you enjoy your visit! Dont forget to leave a review.
+
+"This project was a timed group assignment completed by [Tim Carrington](https://github.com/timiscarrington), [Tyler Hoffman](https://github.com/t-hoffman), and [Austin Cheer](https://github.com/ShadowTorn33) over the course of one week. The goal was to Reverse Engineer Airbnb and mimic it in style and functionality. All three developers collaborated and contributed to the project, with [Tim Carrington](https://github.com/timiscarrington) also making contributions to [Tyler Hoffmans](https://github.com/t-hoffman)'s repository on Github."
 
 ## Description
 
